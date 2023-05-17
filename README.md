@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<img src="https://i.ibb.co/L8Vvtwq/iu-970338-9134956.png" alt="iu-970338-9134956" border="0">
+</br>
+<strong>Hi there 👋</strong>
+</br>
+</br>
+<strong>🙃 I'm Ayoub and I'm a young content creator/programmer.</strong>
+</br>
+<strong>📫 How to contact me: You can contact me via email (<a href="mailto:developersayoub@gmail.com">developersayoub@gmail.com</a>) or in <a href="https://ayoub3332.newgrounds.com">Newgrounds</a>.
+</br>
+💻 This is my website: https://cutt.ly/ayoub3332</strong>
 <!--
 **ayoub3332/ayoub3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
