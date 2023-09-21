@@ -5,11 +5,21 @@
 </br>
 <strong>🙃 I'm Ayoub and I'm a young content creator/programmer.</strong>
 </br>
-<summary><strong>📫 How to contact me</strong></summary>
+<details>
+<summary>
+  <strong>📫 How to contact me</strong>
+</summary>
 </br>
 You can contact me via email (<a href="mailto:developersayoub@gmail.com">developersayoub@gmail.com</a>) or in <a href="https://ayoub3332.newgrounds.com">Newgrounds</a>.
+</details>
 </br>
-💻 This is my website: https://cutt.ly/ayoub3332</strong>
+<details>
+<summary>
+  <strong>💻 My website</strong>
+</summary>
+</br>
+https://cutt.ly/ayoub3332
+</details>
 <!--
 **ayoub3332/ayoub3332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
