@@ -5,7 +5,9 @@
 </br>
 <strong>🙃 I'm Ayoub and I'm a young content creator/programmer.</strong>
 </br>
-<strong>📫 How to contact me: You can contact me via email (<a href="mailto:developersayoub@gmail.com">developersayoub@gmail.com</a>) or in <a href="https://ayoub3332.newgrounds.com">Newgrounds</a>.
+<summary><strong>📫 How to contact me</strong></summary>
+</br>
+You can contact me via email (<a href="mailto:developersayoub@gmail.com">developersayoub@gmail.com</a>) or in <a href="https://ayoub3332.newgrounds.com">Newgrounds</a>.
 </br>
 💻 This is my website: https://cutt.ly/ayoub3332</strong>
 <!--
