@@ -11,7 +11,6 @@
 </summary>
 You can contact me via email (<a href="mailto:developersayoub@gmail.com">developersayoub@gmail.com</a>) or in <a href="https://ayoub3332.newgrounds.com">Newgrounds</a>.
 </details>
-</br>
 <details>
 <summary>
   <strong>💻 My website</strong>
